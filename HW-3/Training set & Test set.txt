@@ -1,0 +1,1 @@
+I'm sorry, due to GitHub's limitations on the size of individual files uploaded, 'fashion-mnist_test.csv' and 'fashion-mnist_train.csv' cannot be uploaded to this repository. If needed, please contact me, thank you!
